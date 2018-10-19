@@ -1,5 +1,5 @@
 def my_hash
- your_hash = ["language" => "ruby"]
+ your_hash = {"language" => "ruby", "computer" => "windows"}
 end
 
 
